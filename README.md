@@ -1,6 +1,6 @@
 ### Hi there, my name is Maddie (she/her) - [madelynthomas][website] 👋🏻
 
-## I'm a SDET and web developer!
+## I'm a software engineer!
 
 - 🏠 I’m currently WFH
 - 📚 I’m currently learning .NET Core and React
