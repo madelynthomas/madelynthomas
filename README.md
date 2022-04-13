@@ -1,16 +1,18 @@
 ### Hi there, my name is Maddie (she/her) - [madelynthomas][website] 👋🏻
 
-## I'm a software engineer!
+## I'm a software engineer in test!
 
 - 🏠 I’m currently WFH
 - 📚 I’m currently learning .NET Core and React
 - 👩🏻‍💻 Working on SilverSneakers.com
-- 🥅 2021 Goals: Survive COVID-19 😷 (yes, still!)
-- ⚡ Fun Fact: I have an army of rubber ducks 🦆
+- 🥅 2022 Goals: Get better with DevOps and systems engineeing 
+- ⚡ Fun Fact: I have an army of rubber ducks! 🦆
 
 ### Connect with me 🔗
 
 [<img align="left" alt="https://github.com/madelynthomas" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="samohtnyledam | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="samohtnyledam | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
 [<img align="left" alt="madelynthomas | Keybase" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/keybase.svg" />][keybase]
 <br />
 
@@ -30,5 +32,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 [website]: https://github.com/madelynthomas
-[keybase]: https://keybase.io/madelynthomas
+[LinkedIn]: https://www.linkedin.com/in/samohtnyledam/
 [Twitter]: https://twitter.com/samohtnyledam
+[keybase]: https://keybase.io/madelynthomas
