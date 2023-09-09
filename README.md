@@ -2,7 +2,7 @@
 
 ## I'm a software engineer!
 
-- 🏠🏢 I’m currently working hybrid
+- 🚙 I’m currently working hybrid
 - 📚 I’m currently learning DevOps
 - 👩🏻‍💻 Working on test automation frameworks
 - 🥅 2023 Goals: Get better with AI and chatbots 
