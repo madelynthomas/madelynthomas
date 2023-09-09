@@ -1,6 +1,6 @@
 ### Hi there, my name is Madelyn (she/her) - [madelynthomas][website] 👋🏻
 
-## I'm a software engineer in test!
+## I'm a software engineer!
 
 - 🏠🏢 I’m currently working hybrid
 - 📚 I’m currently learning DevOps
