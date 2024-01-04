@@ -3,7 +3,7 @@
 ## I'm a software engineer!
 
 - 🚙 I’m currently working hybrid
-- 📚 I’m currently learning DevOps + Ansible inside on Rancher
+- 📚 I’m currently learning DevOps + Ansible using Rancher for Kubernetes management
 - 👩🏻‍💻 Working on test automation frameworks
 - 🥅 2024 Goals: Learn new test automation tools
 - ⚡ Fun Fact: I have an army of rubber ducks! 🦆
